@@ -14,7 +14,7 @@ document.getElementById("comics").innerHTML = sb;
 function karateCatNumOne(){ 
 var kc =  '<img src="./assets/comics/KC1/kc.jpg"><br><img src="./assets/comics/KC1/kc1.jpg"> '
 
-var kcSummary = '<h3><b>Summary:</b></h3><p> Ah yes, just what everyone came here for. Shamelessly post comics I wrote in Middle School. Karate Cat Volume One </p>'
+var kcSummary = '<h3><b>Summary:</b></h3><p> Ah yes, just what everyone came here for. Comics I wrote in middle school. You have great taste.</p>'
 
 document.getElementById("summary").innerHTML = kcSummary;
 document.getElementById("comics").innerHTML = kc;
