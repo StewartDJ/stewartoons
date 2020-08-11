@@ -171,6 +171,8 @@ flex-shrink: inherit;
     float: left;
     flex-direction: left;
     border-radius: 5px;
+    box-shadow: 1px 1px 5px black;
+
 }
 
 #right {
@@ -214,7 +216,7 @@ overflow-y: scroll;
     margin-right: auto;
     overflow-x: wrap;
     background-color: white;
-    box-shadow: 2px 2px 10px black;
+    box-shadow: 1px 1px 5px black;
 }
 
 #comWrapper {
@@ -227,7 +229,8 @@ overflow-y: scroll;
     margin-right: auto;
     overflow-x: auto;
     background-color: white;
-    box-shadow: 2px 2px 10px black;
+    box-shadow: 1px 1px 5px black;
+
 
 }
 
@@ -284,7 +287,6 @@ overflow-y: scroll;
     }
     
     .footer img {
-        
         width: 20px;
     }
 
@@ -299,8 +301,9 @@ overflow-y: scroll;
         height: 80vh;
         padding: 20px;
         overflow: auto;
+        box-shadow: 1px 1px 5px black;
         }
-        
+
         #delOnLoad  img{
             padding: 20px;
             overflow-y: auto;
@@ -419,4 +422,5 @@ float: left;
         margin: 20px;
     }
 
+    
    
