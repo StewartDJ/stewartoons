@@ -48,6 +48,21 @@ a:link {
     text-transform: uppercase;
   }
 
+.bio{
+    font-size: 20px;
+    color: black;
+    margin-left: 20px;
+    margin-top: 0px;
+    padding: 10px;
+}
+
+.bio a{
+   text-transform: none;
+    color: #d42929;
+   text-decoration: underline;
+
+}
+
 
 .carousel-item,
 .carousel-inner,
@@ -105,7 +120,7 @@ flex-shrink: inherit;
     overflow-y: auto;
     overflow-x: hidden;
     float: left;
-   height: 80vh;
+   height: 90vh;
    width: 70vw;
     flex-direction: left;    
    
@@ -205,6 +220,30 @@ overflow-y: scroll;
   justify-content: space-around;
 }
 
+.tableColor {
+    color: white;
+    background-color:grey;
+padding: 5px;
+}
+
+.tableColor2{
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 10px;
+    background-color: yellow;
+    box-shadow: 0px 0px 1px grey;
+}
+
+.tableColor3{
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0px 0px 1px grey;
+}
+
+.tableWhole {
+    width: 20vw;
+    box-shadow: 1px 1px 10px grey;
+}
+
 
 .comWrap {
     border-radius: 5px;
@@ -282,7 +321,8 @@ overflow-y: scroll;
         padding-top: 20px;
         padding-bottom: 4vh;
         background-color: black;
-        color: white;    
+        color: white;   
+        float: left;
         
     }
     
@@ -406,6 +446,7 @@ margin-bottom: 20px;
 height: 10vh;
 box-shadow: 1px 1px 5px black;
 padding: 20px;
+overflow: hidden;
 }
 
 .layoutTestAbout img {
@@ -423,4 +464,13 @@ float: left;
     }
 
     
-   
+   .card {
+    box-shadow: 1px 1px 5px black;
+   }
+
+   td {
+       overflow-wrap:break-word;
+        
+       margin: 20px;
+       padding: 50px;
+   }
