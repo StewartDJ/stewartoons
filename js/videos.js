@@ -14,3 +14,15 @@ function selectOWKp1(){
         var pAP =  '<iframe width="560" height="315" src="https://www.youtube.com/embed/3SPZMwlTKWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         document.getElementById("videoContainer").innerHTML = pAP;
         }
+
+        function selectMBG(){ 
+            var mBG =  '<iframe width="560" height="315" src="https://www.youtube.com/embed/IjOPiqpnkeg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+            document.getElementById("videoContainer").innerHTML = mBG;
+            }
+
+            
+            function selectSGBB(){ 
+                var sGBB =  '<iframe width="560" height="315" src="https://www.youtube.com/embed/WrV4qzMX2ig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+                document.getElementById("videoContainer").innerHTML = sGBB;
+                }
+    
