@@ -18,6 +18,10 @@ body {
     color: black;
 }
 
+.scaleUp img{
+    width: 100%;
+}
+
 .navigation-bar {
     background-color: black;
     border: 12px black solid;

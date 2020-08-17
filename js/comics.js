@@ -280,5 +280,159 @@ function redThornNumOne(){
                             document.getElementById("summary").innerHTML = kcSummary7;
                             document.getElementById("comics").innerHTML = kc7;
                             }
+
+                            function karateCatNumEight(){ 
+                                var kc8 =  '<img src="./assets/comics/KC8/kc.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc1.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc2.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc3.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc4.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc5.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc6.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc7.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc8.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc9.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc10.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc11.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc12.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc13.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc14.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc15.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc16.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc17.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc18.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc19.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc20.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc21.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc22.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc23.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc24.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc25.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc26.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc27.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc28.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc29.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc30.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc31.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc32.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc33.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc34.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc35.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc36.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc37.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc38.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc39.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc40.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc41.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc42.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc43.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc44.jpg"><br>' +
+                                '<img src="./assets/comics/KC8/kc45.jpg"><br>' 
+                                
+                                
+                                var kcSummary8 = '<h3><b>Summary:</b>' +
+                                '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 3 </p>'
+                                
+                                document.getElementById("summary").innerHTML = kcSummary8;
+                                document.getElementById("comics").innerHTML = kc8;
+                                }
+
+
+
+
+
+                            function tokyoBlockPartyOne(){ 
+                                var tbp =  '<img src="./assets/comics/TBP/tbp.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp1.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp2.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp3.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp4.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp5.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp6.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp7.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp8.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp9.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp10.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp11.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp12.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp13.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp14.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp15.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp16.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp17.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp18.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp19.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp20.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp21.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp22.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp23.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp24.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp25.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp26.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp27.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp28.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp29.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp30.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp31.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp32.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp33.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp34.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp35.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp36.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp37.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp38.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp39.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp40.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp41.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp42.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp43.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp44.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp45.jpg"><br>' +
+                                '<img src="./assets/comics/TBP/tbp46.jpg"><br>' 
+                                
+                                
+                                var tbpSummary = '<h3><b>Summary:</b>' +
+                                '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 3 </p>'
+                                
+                                document.getElementById("summary").innerHTML = tbpSummary;
+                                document.getElementById("comics").innerHTML = '<div class="scaleUp">' + tbp + '</div>';
+                                }
                             
             
+
+                                function iOS(){ 
+                                    var iOS =  '<img src="./assets/comics/ONESHOTS/iOS.jpg"><br>'
+                                    
+                     
+                                    var iOSSummary = '<h3><b>Summary:</b>' +
+                                    '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 3 </p>'
+                                    
+                                    document.getElementById("summary").innerHTML = iOSSummary;
+                                    document.getElementById("comics").innerHTML = '<div class="scaleUp">' + iOS + '</div>';
+                                    }
+                                
+
+//function randomOneShot() {
+  //  atRandom = [
+    //    {
+      //      image: "iOS.jpg"
+
+        //},
+       // {
+        //   image: "kcOS.jpg"
+       // }
+   // ]
+
+    //for (var i = 0; i < atRandom.length; i++){
+        //let randomValue = myArray[Math.floor(Math.random() * myArray.length)];
+      //  document.getElementById("comics").innerHTML = atRandom.map(products => `
+     //  `
+     //<img src= "./assets/comics/ONESHOTS/${atRandom.image}" class="">
+     
+       // `);
+
+        //}
+
+
+
+//}
