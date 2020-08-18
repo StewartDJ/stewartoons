@@ -410,7 +410,167 @@ function redThornNumOne(){
                                     document.getElementById("summary").innerHTML = iOSSummary;
                                     document.getElementById("comics").innerHTML = '<div class="scaleUp">' + iOS + '</div>';
                                     }
+
+                                    function beast(){ 
+                                        var b =  '<img src="./assets/comics/B/b.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b1.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b2.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b3.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b4.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b5.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b6.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b7.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b8.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b9.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b10.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b11.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b12.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b13.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b14.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b15.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b16.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b17.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b18.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b19.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b20.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b21.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b22.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b23.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b24.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b25.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b26.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b27.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b28.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b29.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b30.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b31.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b32.jpg"><br>' +
+                                        '<img src="./assets/comics/B/b33.jpg"><br>' 
+                                        
+                         
+                                        var bSummary = '<h3><b>Summary:</b>' +
+                                        '</h3><p>Personal Rating: ★★★☆☆ </p><p> </p>'
+                                        
+                                        document.getElementById("summary").innerHTML = bSummary;
+                                        document.getElementById("comics").innerHTML = '<div class="scaleUp">' + b + '</div>';
+                                        }
                                 
+
+
+                                    function terribleTwosOne(){ 
+                                        var tt =  '<img src="./assets/comics/TT/tt.jpg"><br>' +
+                                        '<img src="./assets/comics/TT/tt1.jpg"><br>' +
+                                        '<img src="./assets/comics/TT/tt2.jpg"><br>' +
+                                        '<img src="./assets/comics/TT/tt3.jpg"><br>' +
+                                        '<img src="./assets/comics/TT/tt4.jpg"><br>' +
+                                        '<img src="./assets/comics/TT/tt5.jpg"><br>' +
+                                        '<img src="./assets/comics/TT/tt6.jpg"><br>' +
+                                        '<img src="./assets/comics/TT/tt7.jpg"><br>' +
+                                        '<img src="./assets/comics/TT/tt8.jpg"><br>' +
+                                        '<img src="./assets/comics/TT/tt9.jpg"><br>'                                         
+                         
+                                        var ttSummary = '<h3><b>Summary:</b>' +
+                                        '</h3><p>Personal Rating: ★★★☆☆ </p><p></p>'
+                                        
+                                        document.getElementById("summary").innerHTML = ttSummary;
+                                        document.getElementById("comics").innerHTML = '<div class="scaleUp">' + tt + '</div>';
+                                    }
+
+
+
+                                        function zolarWarriorOne(){ 
+                                            var zw =  '<img src="./assets/comics/LOZW/lozw.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw1.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw2.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw3.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw4.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw5.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw6.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw7.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw8.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw9.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw10.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw11.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw12.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw13.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw14.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw15.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw16.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw17.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw18.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw19.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw20.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw21.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw22.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw23.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw24.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw25.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw26.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw27.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw28.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw29.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw30.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw31.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw32.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw33.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw34.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw35.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw36.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw37.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw38.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw39.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw40.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw41.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw42.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw43.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw44.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw45.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw46.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw47.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw48.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw49.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw50.jpg"><br>' +
+                                            '<img src="./assets/comics/LOZW/lozw51.jpg"><br>'
+                                                                                
+                                            var zwSummary = '<h3><b>Summary:</b>' +
+                                            '</h3><p>Personal Rating: ★★★☆☆ </p><p></p>'
+                                            
+                                            document.getElementById("summary").innerHTML = zwSummary;
+                                            document.getElementById("comics").innerHTML = '<div class="scaleUp">' + zw + '</div>';
+                                        }
+    
+                                            function petMe(){ 
+                                                var pm =  '<img src="./assets/comics/PM/pm.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm1.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm2.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm3.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm4.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm5.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm6.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm7.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm8.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm9.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm10.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm11.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm12.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm13.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm14.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm15.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm16.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm17.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm18.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm19.jpg"><br>' +
+                                                '<img src="./assets/comics/PM/pm20.jpg"><br>' 
+                                 
+                                                var pmSummary = '<h3><b>Summary:</b>' +
+                                                '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 3 </p>'
+                                                
+                                                document.getElementById("summary").innerHTML = pmSummary;
+                                                document.getElementById("comics").innerHTML = '<div class="scaleUp">' + pm + '</div>';
+                                                }
+
+                        
+                                        
 
 //function randomOneShot() {
   //  atRandom = [
