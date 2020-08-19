@@ -470,7 +470,7 @@ function redThornNumOne(){
                                         '<img src="./assets/comics/TT/tt9.jpg"><br>'                                         
                          
                                         var ttSummary = '<h3><b>Summary:</b>' +
-                                        '</h3><p>Personal Rating: ★★★☆☆ </p><p></p>'
+                                        '</h3><p>Personal Rating: ★★★☆☆ </p> <p>Genre: Comedy</p> A curious little boy <p></p>'
                                         
                                         document.getElementById("summary").innerHTML = ttSummary;
                                         document.getElementById("comics").innerHTML = '<div class="scaleUp">' + tt + '</div>';
