@@ -2,8 +2,14 @@
 console.log("javascript is linked")
 
 function shapeBabies() {
-var sb = '<img src="./assets/comics/SB/01.jpg">'
-var sbSummary = '<h3> Summary </h3><p> I wrote these when I was eight years old and you can tell! The Shape Baby\'s follows the adventures of Smartypants Triangle, Socks the Square, and Jungle Shape Kid as they join forces to save their town from various perils. </p>'
+var sb = '<img src="./assets/comics/SB/01.jpg">' + 
+'<img src="./assets/comics/SB/2.jpg">' +
+'<img src="./assets/comics/SB/3.jpg">'  +
+'<img src="./assets/comics/SB/4.jpg">' 
+
+var sbSummary = '<p> <h3> Summary </h3> <p><b> Rating: </b> ★★★☆☆ </p>' +
+'<p><b> Year: </b> 2000  </p>' +
+ `<p> I wrote these when I was eight years old (as I'm sure you can tell) The ShapeBabys (intentionally misspeled) follows the adventures of Smartypants Triangle, Socks the Square, and Jungle Shape Kid as they join forces to save their town from various perils perpetuated by Bad Round and King Rectangle, rulers of Shapeland. Sounds great in theory but honestly it’s mostly just fart jokes. These are in no sequential order, each page is it’s own standalone comic. (The last of which just may be Socks having an existential crisis). The unnamed redhaired dude is the mayor of Shapeland who for some reason is always being targeted by the villians. Highly intellectual content, read at your own risk. </p>`
 
 
 document.getElementById("summary").innerHTML = sbSummary;
@@ -331,7 +337,7 @@ function redThornNumOne(){
                                 
                                 
                                 var kcSummary8 = '<h3><b>Summary:</b>' +
-                                '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 3 </p>'
+                                '</h3><p>Personal Rating: ★★★☆☆ </p><p>  </p>'
                                 
                                 document.getElementById("summary").innerHTML = kcSummary8;
                                 document.getElementById("comics").innerHTML = kc8;
