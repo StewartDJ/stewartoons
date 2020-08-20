@@ -9,7 +9,7 @@ var sb = '<img src="./assets/comics/SB/01.jpg">' +
 
 var sbSummary = '<p> <h3> Summary </h3> <p><b> Rating: </b> ★★★☆☆ </p>' +
 '<p><b> Year: </b> 2000  </p>' +
- `<p> I wrote these when I was eight years old (as I'm sure you can tell) The ShapeBabys (intentionally misspeled) follows the adventures of Smartypants Triangle, Socks the Square, and Jungle Shape Kid as they join forces to save their town from various perils perpetuated by Bad Round and King Rectangle, rulers of Shapeland. Sounds great in theory but honestly it’s mostly just fart jokes. These are in no sequential order, each page is it’s own standalone comic. (The last of which just may be Socks having an existential crisis). The unnamed redhaired dude is the mayor of Shapeland who for some reason is always being targeted by the villians. Highly intellectual content, read at your own risk. </p>`
+ `<p> I wrote these when I was eight years old (as I'm sure you can tell) The ShapeBabys (intentionally mispelled) follows the adventures of Smartypants Triangle, Socks the Square, and Jungle Shape Kid as they join forces to save their town from various perils perpetuated by Bad Round and King Rectangle, rulers of Shapeland. Sounds great in theory but honestly it’s mostly just fart jokes. These are in no sequential order, each page is it’s own standalone comic. (The last of which just may be Socks having an existential crisis). The unnamed redhaired dude is the mayor of Shapeland who for some reason is always being targeted by the villians. Highly intellectual content, read at your own risk. </p>`
 
 
 document.getElementById("summary").innerHTML = sbSummary;
@@ -101,7 +101,7 @@ function redThornNumOne(){
         '<img src="./assets/comics/KC2/kc29.jpg">'  
         
         var kcSummary2 = '<h3><b>Summary:</b>' +
-        '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 2 </p>'
+        '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 2 (description coming soon)</p>'
         
         document.getElementById("summary").innerHTML = kcSummary2;
         document.getElementById("comics").innerHTML = kc2;
@@ -141,7 +141,7 @@ function redThornNumOne(){
             '<img src="./assets/comics/KC3/kc29.jpg">'  
             
             var kcSummary3 = '<h3><b>Summary:</b>' +
-            '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 3 </p>'
+            '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 3 - Summary coming soon </p>'
             
             document.getElementById("summary").innerHTML = kcSummary3;
             document.getElementById("comics").innerHTML = kc3;
@@ -179,7 +179,7 @@ function redThornNumOne(){
                 '<img src="./assets/comics/KC4/kc26.jpg">'  
                 
                 var kcSummary4 = '<h3><b>Summary:</b>' +
-                '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 3 </p>'
+                '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 4 - Summary Coming Soon </p>'
                 
                 document.getElementById("summary").innerHTML = kcSummary4;
                 document.getElementById("comics").innerHTML = kc4;
@@ -213,7 +213,7 @@ function redThornNumOne(){
                     '<img src="./assets/comics/KC5/kc22.jpg"><br>'  
                     
                     var kcSummary5 = '<h3><b>Summary:</b>' +
-                    '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 3 </p>'
+                    '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 5 - Summary Coming Soon </p>'
                     
                     document.getElementById("summary").innerHTML = kcSummary5;
                     document.getElementById("comics").innerHTML = kc5;
@@ -249,7 +249,7 @@ function redThornNumOne(){
                         '<img src="./assets/comics/KC6/kc25.jpg"><br>' 
                         
                         var kcSummary6 = '<h3><b>Summary:</b>' +
-                        '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 3 </p>'
+                        '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 6 - Summary Coming Soon </p>'
                         
                         document.getElementById("summary").innerHTML = kcSummary6;
                         document.getElementById("comics").innerHTML = kc6;
@@ -281,7 +281,7 @@ function redThornNumOne(){
                             '<img src="./assets/comics/KC7/kc21.jpg"><br>' 
                             
                             var kcSummary7 = '<h3><b>Summary:</b>' +
-                            '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 3 </p>'
+                            '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 7 - Summary Coming Soon </p>'
                             
                             document.getElementById("summary").innerHTML = kcSummary7;
                             document.getElementById("comics").innerHTML = kc7;
@@ -337,7 +337,7 @@ function redThornNumOne(){
                                 
                                 
                                 var kcSummary8 = '<h3><b>Summary:</b>' +
-                                '</h3><p>Personal Rating: ★★★☆☆ </p><p>  </p>'
+                                '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 8 - Summary Coming Soon  </p>'
                                 
                                 document.getElementById("summary").innerHTML = kcSummary8;
                                 document.getElementById("comics").innerHTML = kc8;
@@ -398,7 +398,7 @@ function redThornNumOne(){
                                 
                                 
                                 var tbpSummary = '<h3><b>Summary:</b>' +
-                                '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 3 </p>'
+                                '</h3><p>Personal Rating: ★★★☆☆ </p><p> Summary Coming Soon </p>'
                                 
                                 document.getElementById("summary").innerHTML = tbpSummary;
                                 document.getElementById("comics").innerHTML = '<div class="scaleUp">' + tbp + '</div>';
@@ -411,7 +411,7 @@ function redThornNumOne(){
                                     
                      
                                     var iOSSummary = '<h3><b>Summary:</b>' +
-                                    '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 3 </p>'
+                                    '</h3><p>Personal Rating: ★★★☆☆ </p><p> Summary Coming Soon </p>'
                                     
                                     document.getElementById("summary").innerHTML = iOSSummary;
                                     document.getElementById("comics").innerHTML = '<div class="scaleUp">' + iOS + '</div>';
@@ -455,7 +455,7 @@ function redThornNumOne(){
                                         
                          
                                         var bSummary = '<h3><b>Summary:</b>' +
-                                        '</h3><p>Personal Rating: ★★★☆☆ </p><p> </p>'
+                                        '</h3><p>Personal Rating: ★★★☆☆ </p><p>Summary Coming Soon </p>'
                                         
                                         document.getElementById("summary").innerHTML = bSummary;
                                         document.getElementById("comics").innerHTML = '<div class="scaleUp">' + b + '</div>';
@@ -539,7 +539,7 @@ function redThornNumOne(){
                                             '<img src="./assets/comics/LOZW/lozw51.jpg"><br>'
                                                                                 
                                             var zwSummary = '<h3><b>Summary:</b>' +
-                                            '</h3><p>Personal Rating: ★★★☆☆ </p><p></p>'
+                                            '</h3><p>Personal Rating: ★★★☆☆ </p><p>Summary Coming Soon</p>'
                                             
                                             document.getElementById("summary").innerHTML = zwSummary;
                                             document.getElementById("comics").innerHTML = '<div class="scaleUp">' + zw + '</div>';
@@ -569,7 +569,7 @@ function redThornNumOne(){
                                                 '<img src="./assets/comics/PM/pm20.jpg"><br>' 
                                  
                                                 var pmSummary = '<h3><b>Summary:</b>' +
-                                                '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 3 </p>'
+                                                '</h3><p>Personal Rating: ★★★☆☆ </p><p> Summary Coming Soon </p>'
                                                 
                                                 document.getElementById("summary").innerHTML = pmSummary;
                                                 document.getElementById("comics").innerHTML = '<div class="scaleUp">' + pm + '</div>';
