@@ -479,9 +479,14 @@ margin-right: 20px;
 float: left;
 }
 
+
 .games-library p{
     font-family: 'Press Start 2P', cursive;
-    font-size: 15px;
+    font-size: 1.4vh;
+    padding: 2px;
+    margin: 1px;
+    word-wrap: inherit;
+    /* font-size: 15px; */
 }
 
     #placeBox {
