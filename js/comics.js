@@ -46,7 +46,7 @@ var kc =  '<img src="./assets/comics/KC1/kc.jpg"><br>' +
 '<img src="./assets/comics/KC1/kc26.jpg">'  
 
 var kcSummary = '<h3><b>Summary:</b>' +
-'</h3><p>Personal Rating: ★★★☆☆ </p><p> Ah yes, just what everyone came here for. Comics I wrote in middle school. You have great taste.</p>'
+'</h3><p>Personal Rating: ★★☆☆☆ </p><p> Karate Cat’s debut comic, written in 6th grade. Karate Cat follows the adventures of a legendary reincarnated karate master with no recollection of his past lives. This issue introduces his first confrontation with ongoing enemies the Ninja Dogs, one of many organizations with the goal of taking him out.  In this issue we find Karate Cat’s eldery karate instructor casually throwing up peace signs and using the word dude like a true bro. I was obviously aware of what was hip and happening in senior culture when I wrote this. The dialogue, fire. The art, boppin. A timeless classic.  In reality,  this is not the best introduction to a series, but it’s not bad for something a middle schooler wrote.</p>'
 
 document.getElementById("summary").innerHTML = kcSummary;
 document.getElementById("comics").innerHTML = kc;
@@ -101,7 +101,7 @@ function redThornNumOne(){
         '<img src="./assets/comics/KC2/kc29.jpg">'  
         
         var kcSummary2 = '<h3><b>Summary:</b>' +
-        '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 2 (description coming soon)</p>'
+        '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 2 - This issue of Karate Cat should get a solid four stars for the pun “Acro-Bats” alone, if there’s one thing I have not grown out of, it is terrible dad jokes. In this issue, Karate Cat and the gang take a trip to the circus, but all is not what it seems when Clutzo the clown and the Ringmaster take control of his best friend Baseball Bear’s mind. The four way split panel where everyone exclaims “Dang!” is one of my favorite moments in the entire comic. It really emphasizes the seriousness of our hero being punched across the room. This comic did not get four stars however, as there is a random transition to the inside of a truck with no context or visual cues. Also the non ironic use of,  “thats my name don’t wear it out” dock some points from it as well. Towards the end we get a bit of backstory explaining how Karate Cat is a legendary hero who is reincarnated every 30 years after he loses one of his nine lives. (At the time of writing I thought that felt like a long time, it’s not.) The comic ends with a bang, literally. </p>'
         
         document.getElementById("summary").innerHTML = kcSummary2;
         document.getElementById("comics").innerHTML = kc2;
@@ -137,11 +137,11 @@ function redThornNumOne(){
             '<img src="./assets/comics/KC3/kc25.jpg"><br>' +
             '<img src="./assets/comics/KC3/kc26.jpg">' +   
             '<img src="./assets/comics/KC3/kc27.jpg">' + 
-            '<img src="./assets/comics/KC3/kc28.jpg">' +
-            '<img src="./assets/comics/KC3/kc29.jpg">'  
+            '<img src="./assets/comics/KC3/kc28.jpg">' 
+           // '<img src="./assets/comics/KC3/kc29.jpg">' // 
             
             var kcSummary3 = '<h3><b>Summary:</b>' +
-            '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 3 - Summary coming soon </p>'
+            '</h3><p>Personal Rating: ★★★☆☆ </p><p> Summary: Power Pig’s design is based off of the red power ranger, as is his name. Let it be known that I had a jerk character named Paul way before Pokemon did and golly is he insufferable. With this comic we get the introduction of Karate Cat’s signature Blasto-Board, the multi-functional  transforming hoverboard. It also introduces my favorite villain in the series, Thunder Fist Tiger, and his two sons Tornado and Tubular Tiger. Not a terrible start to a three part story arc, but the second part is much better</p>'
             
             document.getElementById("summary").innerHTML = kcSummary3;
             document.getElementById("comics").innerHTML = kc3;
@@ -179,7 +179,7 @@ function redThornNumOne(){
                 '<img src="./assets/comics/KC4/kc26.jpg">'  
                 
                 var kcSummary4 = '<h3><b>Summary:</b>' +
-                '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 4 - Summary Coming Soon </p>'
+                '</h3><p>Personal Rating: ★★★★☆ </p><p> Volume 4 - Summary: This issue contains one of my all time favorite fights between Thunder Fist Tiger and Karate Cat.  Thunder Fist Tiger is absolutely ruthless and actually a pretty great character, for this one one of I’m giving it a  four star rating for art and action alone but if I could change anything it would be to make the appearance of everyone’s favorite anti-hero a little less abrupt. This fight stretches for three issues and comes to its conclusion in the next comic. </p>'
                 
                 document.getElementById("summary").innerHTML = kcSummary4;
                 document.getElementById("comics").innerHTML = kc4;
@@ -213,7 +213,7 @@ function redThornNumOne(){
                     '<img src="./assets/comics/KC5/kc22.jpg"><br>'  
                     
                     var kcSummary5 = '<h3><b>Summary:</b>' +
-                    '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 5 - Summary Coming Soon </p>'
+                    '</h3><p>Personal Rating: ★★★☆☆ </p><p> Volume 5: I was watching a lot of Dragonball Z at the time of writing and Squiggles, the small electric baby, was based loosely off of Majin Buu. Something about an infantile villain I found very appealing at the time, but if I were to rewrite this I think I’d have left him out entirely as materializing a small cute baby is not at all indicative of Thunder Fist Tiger’s personality or fighting style. He’s ruthless because he used to be very short and that’s his primary motivation for wanting power, the villain he materializes thus in a modern retelling would have been bigger and more terrifying. We introduce Shonenmaru in this issue, another favorite character of mine, but he deserved to be introduced in a standalone issue instead of the Thunder Fist Tiger arc. There’s a little too much going on in this one. </p>'
                     
                     document.getElementById("summary").innerHTML = kcSummary5;
                     document.getElementById("comics").innerHTML = kc5;
