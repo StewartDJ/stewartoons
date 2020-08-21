@@ -411,7 +411,7 @@ function redThornNumOne(){
                                     
                      
                                     var iOSSummary = '<h3><b>Summary:</b>' +
-                                    '</h3><p>Personal Rating: ★★★☆☆ </p><p> Summary Coming Soon </p>'
+                                    '</h3><p>Personal Rating: ★★★★★ </p><p> This one is two pages, read right to left like a manga as I had written it purely for a manga contest. Featuring the two main characters of Intertwined, a series about a motorcross racer named Jim Boxer and a boxer named Moe Torre Kross who reluctantly become fast friends.  </p>'
                                     
                                     document.getElementById("summary").innerHTML = iOSSummary;
                                     document.getElementById("comics").innerHTML = '<div class="scaleUp">' + iOS + '</div>';
@@ -476,7 +476,7 @@ function redThornNumOne(){
                                         '<img src="./assets/comics/TT/tt9.jpg"><br>'                                         
                          
                                         var ttSummary = '<h3><b>Summary:</b>' +
-                                        '</h3><p>Personal Rating: ★★★☆☆ </p> <p>Genre: Comedy</p> A curious little boy <p></p>'
+                                        '</h3><p>Personal Rating: ★★★☆☆ </p> <p>Genre: Comedy</p> Curiosity killed the cat but it does worse to this kid\'s dad. <p></p>'
                                         
                                         document.getElementById("summary").innerHTML = ttSummary;
                                         document.getElementById("comics").innerHTML = '<div class="scaleUp">' + tt + '</div>';
