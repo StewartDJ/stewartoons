@@ -457,7 +457,7 @@ margin-bottom: 20px;
 height: 10vh;
 box-shadow: 1px 1px 5px black;
 padding: 20px;
-overflow: hidden;
+overflow: hidden; 
 flex: left;
 }
 
@@ -470,7 +470,7 @@ flex: left;
     height: 80vh;
     box-shadow: 1px 1px 5px black;
     padding: 20px;
-    overflow: hidden;
+   /* overflow: hidden; */
     }
 
 .layoutTestAbout img {
