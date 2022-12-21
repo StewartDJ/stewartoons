@@ -229,6 +229,36 @@ a:link {
     max-width: 100%; 
 }
 
+.viewSize {
+    /* background-color: purple; */
+    width: 100%;
+    margin: auto;
+
+}
+
+
+.blurbHome {
+    background-color: white;
+    width: 45vw;
+    margin-top: 20px; 
+    padding: 20px;
+    border-radius: 15px 30px 30px 5px;
+    overflow-wrap: break-word;
+
+}
+
+.clientlist {
+    background-color: grey;
+    width: 100%;
+    padding: 20px;
+    margin: bottom -20px;
+}
+
+
+.clientlist img {
+   margin: 20px;
+   height: 90px;
+}
 
 #left {
     /* display: inline-block; */
@@ -251,19 +281,23 @@ flex-shrink: inherit;
 
 }
 
+@media only screen and (min-width: 768px) {
+
+}
+
 #right {
 
     flex-shrink: inherit; 
 
 flex-wrap: wrap; 
    margin-left: 20px; 
-   width: 50vw;
+   width: 45vw;
  
 padding: 10px 20px 20px 20px; 
 background-color: black;
 color:  #d42929;
 /* border-radius: 5px; */
- height: 1000px;  
+ height: 100rem;  
 overflow-y: scroll;
 }
 
@@ -378,7 +412,21 @@ padding: 5px;
         height: 80px;
         bottom: 0;
         border-top: 4px solid white;
-        margin-top: 20px;
+        margin-top: 20px; 
+        padding-top: 20px;
+        padding-bottom: 4vh;
+        background-color: black;
+        color: white;   
+        float: left;
+        
+    }
+
+    #footerTwo {
+        width: 100%;
+        height: 80px;
+        bottom: 0;
+        border-top: 4px solid white;
+        /* margin-top: 20px; */
         padding-top: 20px;
         padding-bottom: 4vh;
         background-color: black;
@@ -474,6 +522,21 @@ height: 73vh;
     text-transform: uppercase;
 
 }
+
+.yellowHeader { 
+    /*font-family: 'Black Han Sans', sans-serif;*/
+     color:  #f7d739 ;
+     font-size: 50px;
+     margin-top: 20px;
+     margin-bottom: 20px; 
+     margin-left: auto;
+     margin-right: auto;
+     padding-top: 20px;
+    
+     font-family: 'Anton', sans-serif;
+     text-transform: uppercase;
+ 
+ }
 
 .layoutTestCom{
 width: 70vw;
